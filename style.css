@@ -1,0 +1,38 @@
+.recipe {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.recipe {
+    font: bold 20px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
+
+.recipe.kimchi {
+    background-color: red;
+    color: blue;
+}
+
+.recipe.cabonara {
+    background-color: lightgreen;
+    color: red;
+}
+
+.recipe.grilledcheese {
+    background-color: lightsalmon;
+    color: greenyellow;
+}
+
+h1 {
+    text-align: center;
+    width: 1000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
